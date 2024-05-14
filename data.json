@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Harish S",
+    "age": 27,
+    "isMarried": false,
+    "education": {
+      "scl": "CHS",
+      "pu": "CPU",
+      "deg": "GAT"
+    }
+  }
+]
